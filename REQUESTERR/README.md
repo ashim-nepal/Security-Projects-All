@@ -43,7 +43,7 @@ Typical parameters:
 
 ## Preview
 
-![Screenshot]("./Screenshot at 2026-03-24 17-24-11.png")
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/REQUESTERR/Screenshot%20at%202026-03-24%2017-24-11.png)
 
 ---
 

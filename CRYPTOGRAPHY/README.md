@@ -30,6 +30,7 @@ A minimal tool for encrypting and decrypting plain text using AES (16-byte key).
 ## Preview
 
 ![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/CRYPTOGRAPHY/PROJECT_DEMO/Screenshot%20at%202026-03-24%2015-39-01.png)
+
 ![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/CRYPTOGRAPHY/PROJECT_DEMO/Screenshot%20at%202026-03-24%2015-39-49.png)
 
 ---
@@ -74,10 +75,14 @@ A GUI-based utility to encrypt and decrypt PDF files using AES.
 
 ## Preview
 
-![Screenshot](['./PROJECT_DEMO/Screenshot at 2026-03-24 15-41-52.png'](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/CRYPTOGRAPHY/PROJECT_DEMO/Screenshot%20at%202026-03-24%2015-41-52.png))
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/CRYPTOGRAPHY/PROJECT_DEMO/Screenshot%20at%202026-03-24%2015-41-52.png)
+
 ![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/CRYPTOGRAPHY/PROJECT_DEMO/Screenshot%20at%202026-03-24%2015-42-15.png)
+
 ![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/CRYPTOGRAPHY/PROJECT_DEMO/Screenshot%20at%202026-03-24%2015-42-51.png)
+
 ![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/CRYPTOGRAPHY/PROJECT_DEMO/Screenshot%20at%202026-03-24%2015-43-59.png)
+
 ![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/CRYPTOGRAPHY/PROJECT_DEMO/Screenshot%20at%202026-03-24%2015-44-13.png)
 
 ---

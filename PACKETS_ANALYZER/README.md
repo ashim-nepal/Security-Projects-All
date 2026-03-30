@@ -56,9 +56,11 @@ Reports are saved in the `reports/` folder and include:
 
 ## 📸 Preview
 
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-24 18-26-39.png")
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-24 18-27-04.png")
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-24 18-29-45.png")
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PACKETS_ANALYZER/PROJECT_DEMO/Screenshot%20at%202026-03-24%2018-26-39.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PACKETS_ANALYZER/PROJECT_DEMO/Screenshot%20at%202026-03-24%2018-27-04.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PACKETS_ANALYZER/PROJECT_DEMO/Screenshot%20at%202026-03-24%2018-29-45.png)
 
 ---
 

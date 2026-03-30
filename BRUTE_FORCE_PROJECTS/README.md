@@ -37,15 +37,15 @@ An extended version of the tool introduces a comparison mechanism that checks ge
 ## Preview
 **Version 1**
 
-![Screenshot](https://github.com/ashim-nepal/Security-Projects-All/blob/main/BRUTE_FORCE_PROJECTS/PROJECT_IMAGES/Screenshot%20at%202026-03-24%2013-09-46.png)
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/BRUTE_FORCE_PROJECTS/PROJECT_IMAGES/Screenshot%20at%202026-03-24%2013-09-46.png)
 
-![Screenshot](https://github.com/ashim-nepal/Security-Projects-All/blob/main/BRUTE_FORCE_PROJECTS/PROJECT_IMAGES/Screenshot%20at%202026-03-24%2013-11-15.png)
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/BRUTE_FORCE_PROJECTS/PROJECT_IMAGES/Screenshot%20at%202026-03-24%2013-11-15.png)
 
 **Version 2**
 
-![Screenshot](https://github.com/ashim-nepal/Security-Projects-All/blob/main/BRUTE_FORCE_PROJECTS/PROJECT_IMAGES/Screenshot%20at%202026-03-24%2013-16-54.png)
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/BRUTE_FORCE_PROJECTS/PROJECT_IMAGES/Screenshot%20at%202026-03-24%2013-16-54.png)
 
-![Screenshot](https://github.com/ashim-nepal/Security-Projects-All/blob/main/BRUTE_FORCE_PROJECTS/PROJECT_IMAGES/Screenshot%20at%202026-03-24%2013-17-59.png)
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/BRUTE_FORCE_PROJECTS/PROJECT_IMAGES/Screenshot%20at%202026-03-24%2013-17-59.png)
 
 ---
 

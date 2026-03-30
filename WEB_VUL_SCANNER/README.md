@@ -28,13 +28,14 @@ This project provides a lightweight, user‑friendly web interface to perform se
 
 ## 📸 Preview
 
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-26 12-54-53.png")
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/WEB_VUL_SCANNER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-54-53.png)
 
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-26 12-55-51.png")
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/WEB_VUL_SCANNER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-55-51.png)
 
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-26 12-56-05.png")
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/WEB_VUL_SCANNER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-56-05.png)
 
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-26 12-56-29.png")
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/WEB_VUL_SCANNER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-56-29.png)
+
 
 ---
 

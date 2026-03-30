@@ -50,10 +50,13 @@ This tool combines password analysis with encrypted storage. It evaluates input 
 
 ## Preview
 
-![Screenshot]('./PROJECT_DEMO/Screenshot at 2026-03-24 15-59-34.png')
-![Screenshot]('./PROJECT_DEMO/Screenshot at 2026-03-24 16-00-26+.png')
-![Screenshot]('./PROJECT_DEMO/Screenshot at 2026-03-24 16-00-49.png')
-![Screenshot]('./PROJECT_DEMO/Screenshot at 2026-03-24 16-01-23.png')
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PASSWORD%20SECURITY/PROJECT_DEMO/Screenshot%20at%202026-03-24%2015-59-34.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PASSWORD%20SECURITY/PROJECT_DEMO/Screenshot%20at%202026-03-24%2016-00-26.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PASSWORD%20SECURITY/PROJECT_DEMO/Screenshot%20at%202026-03-24%2016-00-49.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PASSWORD%20SECURITY/PROJECT_DEMO/Screenshot%20at%202026-03-24%2016-01-23.png)
 
 ---
 

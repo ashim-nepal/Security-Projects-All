@@ -34,15 +34,6 @@ This project provides a simple but effective DNS‑level content blocker. Domain
 
 ![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FIREWALL-DNS%20Blocker/PROJECT_DEMO/Screenshot%20at%202026-03-28%2020-04-31.png)
 
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-28 18-46-53.png")
-
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-28 19-04-45.png")
-
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-28 19-06-55.png")
-
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-28 20-04-31.png")
-
-
 ---
 
 ## Disclaimer

@@ -36,11 +36,15 @@ This project provides an easy way to lock PDF files by applying password encrypt
 
 ## Preview
 
-![Screenshot]('./PROJECT_DEMO/Screenshot at 2026-03-24 13-51-38.png')
-![Screenshot]('./PROJECT_DEMO/Screenshot at 2026-03-24 13-52-32.png')
-![Screenshot]('./PROJECT_DEMO/Screenshot at 2026-03-24 13-53-17.png')
-![Screenshot]('./PROJECT_DEMO/Screenshot at 2026-03-24 13-54-11.png')
-![Screenshot]('./PROJECT_DEMO/Screenshot at 2026-03-24 13-54-38.png')
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PDF-LOCKER_PROJECT/PROJECT_DEMO/Screenshot%20at%202026-03-24%2013-51-38.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PDF-LOCKER_PROJECT/PROJECT_DEMO/Screenshot%20at%202026-03-24%2013-52-32.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PDF-LOCKER_PROJECT/PROJECT_DEMO/Screenshot%20at%202026-03-24%2013-53-17.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PDF-LOCKER_PROJECT/PROJECT_DEMO/Screenshot%20at%202026-03-24%2013-54-11.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PDF-LOCKER_PROJECT/PROJECT_DEMO/Screenshot%20at%202026-03-24%2013-54-38.png)
 
 ---
 

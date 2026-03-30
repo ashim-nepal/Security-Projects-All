@@ -25,14 +25,14 @@ This project highlights how seemingly harmless applications can be used to demon
 
 ![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/DATA_EXTRATOR/PROJECT_DEMO/Screenshot%20at%202026-03-24%2017-53-46.png)
 
-![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/DATA_EXTRATOR/PROJECT_DEMO/Screenshot%20at%202026-03-24%2017-39-26.png)
+
 
 
 ---
 
 ## 📄 Sample Report
 
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-24 17-39-26.png")
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/DATA_EXTRATOR/PROJECT_DEMO/Screenshot%20at%202026-03-24%2017-39-26.png)
 
 ---
 

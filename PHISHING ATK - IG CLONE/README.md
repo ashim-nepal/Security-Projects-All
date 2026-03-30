@@ -24,7 +24,7 @@ This project is a realistic clone of the Instagram login page (late 2025) design
 
 ![Login Page](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PHISHING%20ATK%20-%20IG%20CLONE/PROJECT_SHOWCASE/Screenshot%20at%202026-03-28%2012-26-40.png)
 
-![Credential Capture](["./PROJECT_SHOWCASE/Screenshot at 2026-03-28 12-40-30.png"](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PHISHING%20ATK%20-%20IG%20CLONE/PROJECT_SHOWCASE/Screenshot%20at%202026-03-28%2012-40-30.png)) 
+![Credential Capture](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PHISHING%20ATK%20-%20IG%20CLONE/PROJECT_SHOWCASE/Screenshot%20at%202026-03-28%2012-40-30.png)) 
 
 ![Database Stored](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/PHISHING%20ATK%20-%20IG%20CLONE/PROJECT_SHOWCASE/Screenshot%20at%202026-03-28%2012-29-37.png)
 

@@ -22,14 +22,21 @@ This project showcases a desktop application that uses a live webcam to register
 
 ## Preview
 
-![Screenshot]("FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot at 2026-03-26 12-21-14.png") 
-![Screenshot]("FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot at 2026-03-26 12-23-31.png")
-![Screenshot]("FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot at 2026-03-26 12-31-45.png") 
-![Screenshot]("FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot at 2026-03-26 12-31-58.png")
-![Screenshot]("FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot at 2026-03-26 12-32-46.png")
-![Screenshot]("FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot at 2026-03-26 12-33-45.png")
-![Screenshot]("FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot at 2026-03-26 12-34-31.png")
-![Screenshot]("FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot at 2026-03-26 12-34-07.png") 
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-21-14.png) 
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-23-31.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-31-45.png) 
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-31-58.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-32-46.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-33-45.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-34-31.png)
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-34-07.png) 
 
 
 ---

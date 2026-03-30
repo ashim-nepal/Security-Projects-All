@@ -32,11 +32,12 @@ This project showcases a desktop application that uses a live webcam to register
 
 ![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-32-46.png)
 
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-34-07.png) 
+
 ![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-33-45.png)
 
 ![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-34-31.png)
 
-![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/FACE_PDF_LOCKER/PROJECT_DEMO/Screenshot%20at%202026-03-26%2012-34-07.png) 
 
 
 ---

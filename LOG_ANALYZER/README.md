@@ -23,16 +23,15 @@ This project provides a lightweight yet powerful log analysis framework for Linu
 
 ## 📸 Preview
 
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-28 21-46-53.png")  
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/LOG_ANALYZER/PROJECT_DEMO/Screenshot%20at%202026-03-28%2021-46-53.png)  
 
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-28 21-47-37.png")  
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/LOG_ANALYZER/PROJECT_DEMO/Screenshot%20at%202026-03-28%2021-47-37.png)  
 
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-28 21-48-17.png")  
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/LOG_ANALYZER/PROJECT_DEMO/Screenshot%20at%202026-03-28%2021-48-17.png)  
 
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-28 21-49-21.png")  
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/LOG_ANALYZER/PROJECT_DEMO/Screenshot%20at%202026-03-28%2021-49-21.png)  
 
-![Screenshot]("./PROJECT_DEMO/Screenshot at 2026-03-28 21-50-01.png")  
-
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/LOG_ANALYZER/PROJECT_DEMO/Screenshot%20at%202026-03-28%2021-50-01.png)  
 
 ---
 

@@ -24,7 +24,13 @@ DecoyPort-Honeypot is an advanced deception-based security tool that transforms 
 
 ## 📸 Preview
 
-![Screenshot](./screenshots/console_output.png) 
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/DECOYPORT_HONEYPOT/PROJECT_DEMO/Screenshot%20at%202026-03-31%2018-00-29.png) 
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/DECOYPORT_HONEYPOT/PROJECT_DEMO/Screenshot%20at%202026-03-31%2018-05-38.png) 
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/DECOYPORT_HONEYPOT/PROJECT_DEMO/Screenshot%20at%202026-03-31%2018-09-38.png) 
+
+![Screenshot](https://raw.githubusercontent.com/ashim-nepal/Security-Projects-All/refs/heads/main/DECOYPORT_HONEYPOT/PROJECT_DEMO/Screenshot%20at%202026-03-31%2018-17-33.png) 
 
 ---
 
